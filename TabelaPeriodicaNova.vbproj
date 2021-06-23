@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{94F73360-47C1-4E69-A634-1880106FB053}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TabelaPeriodicaNova.My.MyApplication</StartupObject>
+    <RootNamespace>TabelaPeriodicaNova</RootNamespace>
+    <AssemblyName>TabelaPeriodicaNova</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TabelaPeriodicaNova.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TabelaPeriodicaNova.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Imagens\Ac.png" />
+    <Content Include="Imagens\Ag.jpg" />
+    <Content Include="Imagens\Al.jpg" />
+    <Content Include="Imagens\Am.jpg" />
+    <Content Include="Imagens\Ar.jpg" />
+    <Content Include="Imagens\As.jpg" />
+    <Content Include="Imagens\At.jpg" />
+    <Content Include="Imagens\Au.jpg" />
+    <Content Include="Imagens\B.jpg" />
+    <Content Include="Imagens\Ba.jpg" />
+    <Content Include="Imagens\Be.png" />
+    <Content Include="Imagens\Bi.jpg" />
+    <Content Include="Imagens\Br.jpg" />
+    <Content Include="Imagens\C.jpg" />
+    <Content Include="Imagens\Ca.png" />
+    <Content Include="Imagens\Cd.jpg" />
+    <Content Include="Imagens\Cl.jpg" />
+    <Content Include="Imagens\Co.jpg" />
+    <Content Include="Imagens\Cr.jpg" />
+    <Content Include="Imagens\Cs.jpg" />
+    <Content Include="Imagens\Cu.jpg" />
+    <Content Include="Imagens\Dy.jpg" />
+    <Content Include="Imagens\Er.jpg" />
+    <Content Include="Imagens\Eu.jpg" />
+    <Content Include="Imagens\F.jpg" />
+    <Content Include="Imagens\Fe.jpg" />
+    <Content Include="Imagens\Fr.png" />
+    <Content Include="Imagens\Ga.jpg" />
+    <Content Include="Imagens\Gd.jpg" />
+    <Content Include="Imagens\Ge.jpg" />
+    <Content Include="Imagens\H.jpg" />
+    <Content Include="Imagens\He.jpg" />
+    <Content Include="Imagens\Hf.jpg" />
+    <Content Include="Imagens\Hg.jpg" />
+    <Content Include="Imagens\Ho.jpg" />
+    <Content Include="Imagens\I.jpg" />
+    <Content Include="Imagens\In.jpg" />
+    <Content Include="Imagens\Ir.jpg" />
+    <Content Include="Imagens\K.jpg" />
+    <Content Include="Imagens\Kr.jpg" />
+    <Content Include="Imagens\La.jpg" />
+    <Content Include="Imagens\Li.jpg" />
+    <Content Include="Imagens\Lu.jpg" />
+    <Content Include="Imagens\Mg.jpg" />
+    <Content Include="Imagens\Mn.jpg" />
+    <Content Include="Imagens\Mo.jpg" />
+    <Content Include="Imagens\N.jpg" />
+    <Content Include="Imagens\Na.jpg" />
+    <Content Include="Imagens\Nb.jpg" />
+    <Content Include="Imagens\Nd.jpg" />
+    <Content Include="Imagens\Ne.jpg" />
+    <Content Include="Imagens\Ni.jpg" />
+    <Content Include="Imagens\Np.jpg" />
+    <Content Include="Imagens\O.jpg" />
+    <Content Include="Imagens\Os.jpg" />
+    <Content Include="Imagens\P.jpg" />
+    <Content Include="Imagens\Pa.jpg" />
+    <Content Include="Imagens\Pb.jpg" />
+    <Content Include="Imagens\Pd.jpg" />
+    <Content Include="Imagens\Pm.jpg" />
+    <Content Include="Imagens\Po.jpg" />
+    <Content Include="Imagens\Pr.jpg" />
+    <Content Include="Imagens\Pt.jpg" />
+    <Content Include="Imagens\Pu.jpg" />
+    <Content Include="Imagens\Ra.jpg" />
+    <Content Include="Imagens\Rb.jpg" />
+    <Content Include="Imagens\Re.jpg" />
+    <Content Include="Imagens\Rh.jpg" />
+    <Content Include="Imagens\Rn.jpg" />
+    <Content Include="Imagens\Ru.jpg" />
+    <Content Include="Imagens\S.jpg" />
+    <Content Include="Imagens\Sb.jpg" />
+    <Content Include="Imagens\Sc.jpg" />
+    <Content Include="Imagens\Se.jpg" />
+    <Content Include="Imagens\Si.jpg" />
+    <Content Include="Imagens\Sm.jpg" />
+    <Content Include="Imagens\Sn.jpg" />
+    <Content Include="Imagens\Sr.jpg" />
+    <Content Include="Imagens\Ta.jpg" />
+    <Content Include="Imagens\Tb.jpg" />
+    <Content Include="Imagens\Tc.jpg" />
+    <Content Include="Imagens\Te.jpg" />
+    <Content Include="Imagens\Th.jpg" />
+    <Content Include="Imagens\Ti.jpg" />
+    <Content Include="Imagens\Tl.jpg" />
+    <Content Include="Imagens\Tm.jpg" />
+    <Content Include="Imagens\U.jpg" />
+    <Content Include="Imagens\V.jpg" />
+    <Content Include="Imagens\W.jpg" />
+    <Content Include="Imagens\Xe.jpg" />
+    <Content Include="Imagens\Y.jpg" />
+    <Content Include="Imagens\Yb.jpg" />
+    <Content Include="Imagens\Zn.jpg" />
+    <Content Include="Imagens\Zr.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,42 @@
+D:\Netto e Bruno\LPOO\Visual studio\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.exe.config
+D:\Netto e Bruno\LPOO\Visual studio\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.exe
+D:\Netto e Bruno\LPOO\Visual studio\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.pdb
+D:\Netto e Bruno\LPOO\Visual studio\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.xml
+D:\Netto e Bruno\LPOO\Visual studio\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.Resources.resources
+D:\Netto e Bruno\LPOO\Visual studio\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.vbproj.GenerateResource.Cache
+D:\Netto e Bruno\LPOO\Visual studio\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.exe
+D:\Netto e Bruno\LPOO\Visual studio\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.xml
+D:\Netto e Bruno\LPOO\Visual studio\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.pdb
+D:\Netto e Bruno\LPOO\Visual studio\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.frm1.resources
+D:\2Etim\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.exe.config
+D:\2Etim\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.exe
+D:\2Etim\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.xml
+D:\2Etim\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.pdb
+D:\2Etim\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.exe
+D:\2Etim\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.pdb
+D:\2Etim\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.xml
+D:\2Etim\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.frm1.resources
+D:\2Etim\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.Resources.resources
+D:\2Etim\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.vbproj.GenerateResource.Cache
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.exe.config
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.exe
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.pdb
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.xml
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.vbprojResolveAssemblyReference.cache
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.frm1.resources
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.Resources.resources
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.vbproj.GenerateResource.Cache
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.exe
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.xml
+C:\Everton\LPO\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.pdb
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.exe.config
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.exe
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.xml
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.pdb
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.exe
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.pdb
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\bin\Debug\TabelaPeriodicaNova.xml
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.vbprojResolveAssemblyReference.cache
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.frm1.resources
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.Resources.resources
+G:\TabelaPeriodicaNova\TabelaPeriodicaNova\obj\Debug\TabelaPeriodicaNova.vbproj.GenerateResource.Cache
